@@ -36,4 +36,6 @@ Keyword = Encoding
 
 - 6530250263 นายสิรภพ ชูทอง
 - 6530250352 นายชยพล จิตนะเพชร   
- - <a href="https://copyyu.github.io/encodind"></a>
+ - <a href="https://copyyu.github.io/encodind">Click!!</a>
+
+ 
