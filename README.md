@@ -3,7 +3,7 @@
 - Siraphop Chootong 6530250263 Sec.870
   - Cadcam
 
-![Myprofile](Me.png)
+![Myprofile](Picture/Me.png)
 
 - **ข้อมูลต่างๆ**
   
