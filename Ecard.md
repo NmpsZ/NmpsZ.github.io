@@ -1,4 +1,3 @@
-# Siraphop Chootong
 # Happy Holidays! 🎄
 
 ออกแบบด้วย E-Card ด้วย Canva และซ่อนข้อความผ่าน Steganography
