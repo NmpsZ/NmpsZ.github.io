@@ -3,7 +3,7 @@
 **What is Data Accuracy?
 - Data Accuracy ในบริบทของ Data Quality หมายถึงระดับที่ข้อมูลตรงกับความเป็นจริงหรือแหล่งข้อมูลต้นฉบับอย่างถูกต้องและไม่มีข้อผิดพลาดใดๆ โดยเป็นปัจจัยสำคัญในการประเมินคุณภาพของข้อมูล เพราะข้อมูลที่ไม่ถูกต้องอาจนำไปสู่การตัดสินใจที่ผิดพลาดหรือผลลัพธ์ที่ไม่แม่นยำได้
 - **Meaning by Alation**
-  - **Reference: [Alation]([https://www.secureideas.com/blog/2020/08/encoding-cissp-domain-3.html](https://www.alation.com/blog/what-is-data-quality-why-is-it-important/?utm_source=chatgpt.com))**
+  - **Reference:** [Alation]([https://www.secureideas.com/blog/2020/08/encoding-cissp-domain-3.html](https://www.alation.com/blog/what-is-data-quality-why-is-it-important/?utm_source=chatgpt.com))
     การมีข้อมูลที่ถูกต้องเป็นสิ่งสำคัญ เนื่องจากข้อมูลที่ไม่ถูกต้องอาจนำไปสู่การตัดสินใจที่ผิดพลาดและผลลัพธ์ที่ไม่พึงประสงค์
     ดังนั้น การรักษาความถูกต้องของข้อมูลจึงเป็นปัจจัยสำคัญในการบริหารจัดการข้อมูลที่มีคุณภาพ
     นอกจากความถูกต้องแล้ว คุณสมบัติอื่น ๆ ที่สำคัญของคุณภาพข้อมูลยังรวมถึง ความสมบูรณ์ (Completeness), ความสม่ำเสมอ (Consistency), ความถูกต้องตามกาลเวลา (Timeliness), และความถูกต้องตามรูปแบบ (Validity) 
