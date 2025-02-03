@@ -1,6 +1,6 @@
 2025 Pao Elections
 
-![รูปภาพ]('')
+![รูปภาพ]('/Picture/pao-elections.jpg')
 
 
 
