@@ -1,5 +1,8 @@
 ## Security Control
 
+![รูปภาพ](/Picture/doorlock.jpg)
+
+
 ### โซ่ล็อคประตู
 - **Location**: หอพัก Amber  
 - **Type of Security Control**: Physical Control  
