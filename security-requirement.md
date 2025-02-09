@@ -34,5 +34,5 @@
 
 ## 👥 **My Team**  
 **6530250263 Siraphop Chootong**  
-**6530250352 Chayapol Jitnaphets**  
-**https://copyyu.github.io/security-requirement**
+**6530250352 Chayapol Jitnaphets**  [Security Requirement](https://copyyu.github.io/security-requirement)
+
