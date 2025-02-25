@@ -1,4 +1,4 @@
-# **NCSA Boardgame Challenge – AudAud007 Team 🥷💥**  
+# **NCSA Boardgame Challenge – AudAud007 Team**  
 
 ## **🔐 Cybersecurity Awareness through Board Games**  
 
