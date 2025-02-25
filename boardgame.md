@@ -27,11 +27,11 @@
 
 ## **📸Activity Pictures**  
 
-![ภาพกิจกรรม 1](Picture/boardgame1)  
-![ภาพกิจกรรม 2](Picture/boardgame2)  
-![ภาพกิจกรรม 3](Picture/boardgame3)  
-![ภาพกิจกรรม 4](Picture/boardgame4)  
-![ภาพกิจกรรม 5](Picture/boardgame5)  
+![ภาพกิจกรรม 1](Picture/boardgame1.jpg)  
+![ภาพกิจกรรม 2](Picture/boardgame2.jpg)  
+![ภาพกิจกรรม 3](Picture/boardgame3.jpg)  
+![ภาพกิจกรรม 4](Picture/boardgame4.jpg)  
+![ภาพกิจกรรม 5](Picture/boardgame5.jpg)  
 
 ---
 
