@@ -38,7 +38,7 @@
 ## **🎥 Activity Video**  
 
 📹 คลิกเพื่อรับชมวิดีโอ:  
-[![ภาพปกวิดีโอ](image_folder/picture4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)  
+[![ภาพปกวิดีโอ](Picture/boardgame1.jpg)](https://drive.google.com/drive/folders/1C6mDLqBRXG89EEIS3mInEgqTQHAjjaBu?usp=sharing)  
 
 ---
 
