@@ -42,5 +42,5 @@
 ## **👥Team Group **  
 - [**6530250077 Thossaphol Makpeam**](https://Thossaphol2204.github.io/boardgame) 
 - [**6530250239 Satintree Petsuvun**](https://qwwwwioza.github.io/boardgame) 
-- [**6530250433 Ponyakorn Srinuchart**](https://ponyakorn.github.io/board-game)
+- [**6530250433 Ponyakorn Srinuchart**](https://ponyakorn.github.io/boardgame)
 - [**6530250212 Warakorn Chanthawong**](https://fairfairfairfair.github.io/boardgame)  
